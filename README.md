@@ -3,7 +3,7 @@ My first attempt at a game in Java. This was created for my final project in AP 
 
 # General Info
 - I have not included any assets in this repo, although I would estimate that I created between 50-80 sprites for this game
-- The coolest aspect of this project in my opinion is the ability to customize maps completely
+- The coolest aspect of this project in my opinion is the ability to create user-customized maps with text files
 - It is called Running Simulator 20 as it is a sequel to a game I wrote in Python the year prior: Running Simulator
 
 # The Good Stuff
